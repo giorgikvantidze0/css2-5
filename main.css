@@ -36,7 +36,7 @@
     margin: 0 auto;
 }
 
-#nav-button {
+.nav-button {
  display: inline-block;
  margin-left: 250px;
 }
@@ -197,4 +197,255 @@
 
 .logogo {
     margin-top: 10px;
+}
+
+
+#containertoou- {
+    max-width: 1248px;
+    width: 100%;
+    background-color: #FBF9FF;
+    margin: 0 auto;
+    margin-top: 64px;
+    border-radius: 20px;
+}
+
+#title-conteiner-too {
+    margin: 0 auto;
+    max-width: 768px;
+    margin-top: 42px;
+}
+
+#title-frequently {
+    color: #181D27;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+#title-need {
+    text-align: center;
+    color: #535862;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+
+#boxxx {
+    max-width: 768px;
+    width: 100%;
+    background-color: #E4E4E4;
+    border-radius: 24px;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+
+
+.imges-arrows {
+    padding: 30px;
+}
+
+.chekicon {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.divv {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+
+
+.text-div {
+    color: #535862;
+    font-size: 16px;
+    margin-left: 35px;
+}
+
+#containerthree {
+    max-width: 768px;
+    width: 100%;
+    background-color: #FFE5E5;
+    border-radius: 24px;
+    border: 2px solid #FF2323;
+    margin: 0 auto;
+    margin-top: 16px;
+}
+
+#containerrrruuuu {
+    max-width: 768px;
+    width: 100%;
+    background-color: #F7F4FF;
+    border-color: #326DFF;
+    border-radius: 24px;
+    margin: 0 auto;
+    margin-top: 16px;
+    padding: 10px;
+}
+
+#containerrrr {
+    max-width: 768px;
+    width: 100%;
+    background-color: #E9D7FF;
+    border-radius: 24px;
+    margin: 0 auto;
+    margin-top: 16px;
+}
+
+
+.imes-arrws {
+    background-color: #F7F4FF;
+    border-color: #326DFF;
+    border-radius: 24px;
+    padding: 30px;
+    
+}
+
+#conruuuu {
+    max-width: 768px;
+    width: 100%;
+    background-color: #F7F4FF;
+    border-radius: 24px;
+    border: 4px solid  #326DFF;
+    margin: 0 auto;
+    margin-top: 16px;
+    padding: 10px;
+}
+
+
+#container-finish-box {
+    max-width: 768px;
+    width: 100%;
+    border-radius: 24px;
+    margin: 0 auto;
+    margin-top: 16px;
+    background-color: #FFD5E7;
+    padding: 10px;
+    margin-bottom: 32px;
+}
+
+#finifih  {
+    padding: 30px;
+}
+
+
+#finish-conatiner {
+    max-width: 1248px;
+    width: 100%;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    border-radius: 24px;
+}
+
+.finish-conatiner--title {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 32px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#title-our {
+    text-align: center;
+    font-size: 40px;
+    color: #181D27;
+}
+
+.inline {
+    
+    vertical-align: middle;
+    width: 100%;
+}
+
+
+#title-hear {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 10px;
+    color: #535862;
+}
+
+#container-in-conatiner {
+    padding: 0px 32px;
+    vertical-align: middle;
+}
+
+.kick {
+    max-width: 580px;
+    width: 100%;
+    border-color: #181D27;
+    border-radius: 15px;
+    margin-top: 15px;
+    border: 1px solid #E9EAEB;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.wewy {
+    padding: 32px;
+    max-width: 518px;
+    width: 100%;
+}
+
+.been {
+    font-size: 15px;
+    color: #181D27;
+}
+
+.images {
+    margin-top: 80px;
+}
+
+.images-display {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.sienna {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+.Hewitt {
+    font-size: 18px;
+    color: #181D27;
+}
+
+.project {
+    font-size: 16px;
+    color: #535862;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.logo-disply {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 40px;
+}
+
+#logoooo {
+    margin-left: 100px;
+}
+
+
+
+
+
+
+#container-in-contt {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.wreperr-too {
+    padding: 0px 32px;
 }
